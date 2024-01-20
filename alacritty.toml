@@ -1,0 +1,15 @@
+[font]
+size=14
+normal= {family="JetBrainsMonoNerdFont",style="Regular"}
+
+[colors.primary]
+foreground = "#D0CFCC"
+background = "#171421"
+
+[colors.normal]
+blue = "#12488B"
+green = "#26A269"
+
+
+
+
